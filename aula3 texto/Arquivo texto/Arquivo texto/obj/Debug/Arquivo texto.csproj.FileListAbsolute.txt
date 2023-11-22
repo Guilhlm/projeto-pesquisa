@@ -1,0 +1,10 @@
+C:\Users\guilherme.lmaia\source\repos\c#\aula3 texto\Arquivo texto\Arquivo texto\bin\Debug\Arquivo texto.exe.config
+C:\Users\guilherme.lmaia\source\repos\c#\aula3 texto\Arquivo texto\Arquivo texto\bin\Debug\Arquivo texto.exe
+C:\Users\guilherme.lmaia\source\repos\c#\aula3 texto\Arquivo texto\Arquivo texto\bin\Debug\Arquivo texto.pdb
+C:\Users\guilherme.lmaia\source\repos\c#\aula3 texto\Arquivo texto\Arquivo texto\obj\Debug\Arquivo texto.csproj.AssemblyReference.cache
+C:\Users\guilherme.lmaia\source\repos\c#\aula3 texto\Arquivo texto\Arquivo texto\obj\Debug\Arquivo_texto.Form1.resources
+C:\Users\guilherme.lmaia\source\repos\c#\aula3 texto\Arquivo texto\Arquivo texto\obj\Debug\Arquivo_texto.Properties.Resources.resources
+C:\Users\guilherme.lmaia\source\repos\c#\aula3 texto\Arquivo texto\Arquivo texto\obj\Debug\Arquivo texto.csproj.GenerateResource.cache
+C:\Users\guilherme.lmaia\source\repos\c#\aula3 texto\Arquivo texto\Arquivo texto\obj\Debug\Arquivo texto.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.lmaia\source\repos\c#\aula3 texto\Arquivo texto\Arquivo texto\obj\Debug\Arquivo texto.exe
+C:\Users\guilherme.lmaia\source\repos\c#\aula3 texto\Arquivo texto\Arquivo texto\obj\Debug\Arquivo texto.pdb
